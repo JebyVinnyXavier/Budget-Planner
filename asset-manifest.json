@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/JebyVinnyXavier/Budget-Planner.git/static/js/main.c02a217f.chunk.js",
-    "main.js.map": "/JebyVinnyXavier/Budget-Planner.git/static/js/main.c02a217f.chunk.js.map",
-    "runtime-main.js": "/JebyVinnyXavier/Budget-Planner.git/static/js/runtime-main.cd7f6cf8.js",
-    "runtime-main.js.map": "/JebyVinnyXavier/Budget-Planner.git/static/js/runtime-main.cd7f6cf8.js.map",
-    "index.html": "/JebyVinnyXavier/Budget-Planner.git/index.html"
+    "main.js": "/Budget-Planner/static/js/main.c02a217f.chunk.js",
+    "main.js.map": "/Budget-Planner/static/js/main.c02a217f.chunk.js.map",
+    "runtime-main.js": "/Budget-Planner/static/js/runtime-main.cb8bd580.js",
+    "runtime-main.js.map": "/Budget-Planner/static/js/runtime-main.cb8bd580.js.map",
+    "index.html": "/Budget-Planner/index.html"
   },
   "entrypoints": [
-    "static/js/runtime-main.cd7f6cf8.js",
+    "static/js/runtime-main.cb8bd580.js",
     "static/js/main.c02a217f.chunk.js"
   ]
 }
